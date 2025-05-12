@@ -2,6 +2,9 @@
 
 A high-performance automation bot engineered to **purchase tickets at scale on Ticketmaster** using over 2,500 Multilogin browser profiles. The bot securely logs into each account, submits **Verified Fan codes**, and completes purchases while emulating **real human behavior** to remain undetected. Integrated with **Google Sheets** for real-time tracking and purchase management, it’s built for **maximum stealth, speed, and scalability**.
 
+We’re the team behind Appilot. We are a software development agency who helped hundreds of businesses automate their social media with custom bots and automations, smart behavior simulations, and plug-and-play solutions. Our pricing is flexible; we offer competitive flat rates as well as hourly rates for fixed projects.
+
+
 <p align="center">
   <img
     src="https://github.com/user-attachments/assets/3e573c8d-8699-4cfa-83bc-b6f26147f0ca"
